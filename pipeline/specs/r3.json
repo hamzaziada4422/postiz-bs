@@ -1,0 +1,6 @@
+{"id":"r3","voice":"af_heart","speed":1.08,"lines":[
+{"say":"One day of the AI sell-off. The S&P 500 fell three point seven percent.","show":"One day of the AI sell-off. The S&P 500 fell 3.7%.","type":"big","kicker":"One day of the AI sell-off","big":"-3.7%","sub":"S&P 500","color":"#FF5C5C"},
+{"say":"AMD dropped thirteen point three percent. Micron, thirteen point nine. Broadcom, twelve point two.","show":"AMD dropped 13.3%. Micron, 13.9%. Broadcom, 12.2%.","type":"bars","title":"One-day drop","rows":[["AMD",13.3,"-13.3%",0],["Micron",13.9,"-13.9%",4],["Broadcom",12.2,"-12.2%",6]]},
+{"say":"And the Nasdaq composite is now negative for the year.","show":"And the Nasdaq composite is now negative for the year.","type":"big","kicker":"Nasdaq composite","big":"Negative","sub":"for the year","color":"#FF5C5C"},
+{"say":"Follow Agent Report for the AI news that matters.","show":"Follow Agent Report for the AI news that matters.","type":"end"}
+]}

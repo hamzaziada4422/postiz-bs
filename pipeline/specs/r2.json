@@ -1,0 +1,8 @@
+{"id":"r2","voice":"af_heart","speed":1.08,"lines":[
+{"say":"Anthropic just went public. Up thirty-four percent on day one.","show":"Anthropic went public. Up 34% on day one.","type":"big","kicker":"Anthropic IPO","big":"+34%","sub":"first day as a public company","color":"#3DDC97"},
+{"say":"It priced at eighty-three dollars.","show":"It priced at $83.","type":"big","kicker":"IPO price","big":"$83","sub":"per share"},
+{"say":"Then it opened at one hundred eleven dollars fifty.","show":"Then it opened at $111.50.","type":"big","kicker":"Opening price","big":"$111.50","sub":"up 34%","color":"#3DDC97"},
+{"say":"By Friday, Bloomberg had it down more than ten percent, as the AI sell-off hit.","show":"By Friday, Bloomberg had it down more than 10%, as the AI sell-off hit.","type":"big","kicker":"By Friday","big":"-10%+","sub":"per Bloomberg","color":"#FF5C5C"},
+{"say":"The market is already arguing about the price.","show":"The market is already arguing about the price.","type":"text","text":"Already arguing about the price","sub":"Sources: Reuters, Bloomberg"},
+{"say":"Follow Agent Report for the AI news that matters.","show":"Follow Agent Report for the AI news that matters.","type":"end"}
+]}
