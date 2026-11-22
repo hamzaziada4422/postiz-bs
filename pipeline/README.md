@@ -14,3 +14,6 @@ Makes a vertical news reel (voiceover, captions, number cards) from a short JSON
    and attach the returned path to an Instagram post (becomes a Reel) and an X post.
 
 Keep text inside x 120 to 888 and y 288 to 1248, at least 28 px type, no all caps, no em dashes.
+
+## Image cards
+`python3 gen_cards.py cards.json outdir` renders unique 1080x1350 PNG cards (kicker, big number, subline, source). Use them for X images and as Instagram carousel slides when no other image source works. Commit PNGs to `media/<date>/` and upload by raw URL like the reels.
